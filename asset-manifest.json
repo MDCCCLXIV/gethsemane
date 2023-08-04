@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gethsemane/static/css/main.e426bee0.css",
+    "main.js": "/gethsemane/static/js/main.f8c2a912.js",
+    "index.html": "/gethsemane/index.html",
+    "main.e426bee0.css.map": "/gethsemane/static/css/main.e426bee0.css.map",
+    "main.f8c2a912.js.map": "/gethsemane/static/js/main.f8c2a912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e426bee0.css",
+    "static/js/main.f8c2a912.js"
+  ]
+}
