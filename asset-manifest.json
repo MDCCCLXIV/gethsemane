@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gethsemane/static/css/main.ae6deb66.css",
-    "main.js": "/gethsemane/static/js/main.b5dbee2e.js",
+    "main.css": "/gethsemane/static/css/main.f8be27e4.css",
+    "main.js": "/gethsemane/static/js/main.482a30fd.js",
     "index.html": "/gethsemane/index.html",
-    "main.ae6deb66.css.map": "/gethsemane/static/css/main.ae6deb66.css.map",
-    "main.b5dbee2e.js.map": "/gethsemane/static/js/main.b5dbee2e.js.map"
+    "main.f8be27e4.css.map": "/gethsemane/static/css/main.f8be27e4.css.map",
+    "main.482a30fd.js.map": "/gethsemane/static/js/main.482a30fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae6deb66.css",
-    "static/js/main.b5dbee2e.js"
+    "static/css/main.f8be27e4.css",
+    "static/js/main.482a30fd.js"
   ]
 }
